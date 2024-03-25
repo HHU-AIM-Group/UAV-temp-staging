@@ -1,4 +1,8 @@
-UE-Project/DrivableCarsSupercar/
-UE-Project/CityParkEnvironment/
-UE-Project/LandscapeMountains/
-UE-Project/VehicleVarietyPackVolume2/
+UE-Project/
+Capture-Process/DepthPerspectiveImage
+Capture-Process/DepthPlanarImage
+Capture-Process/DepthVisImage
+Capture-Process/InfraredImage
+Capture-Process/SceneImage
+Capture-Process/SegmentationImage
+Capture-Process/SurfaceNormalsImage
